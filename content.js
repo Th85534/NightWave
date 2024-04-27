@@ -1,6 +1,5 @@
 let darkModeEnabled = false;
 
-// Function to apply dark mode styles
 function applyDarkMode() {
  document.body.style.backgroundColor = '#111';
  document.body.style.color = '#ddd';
